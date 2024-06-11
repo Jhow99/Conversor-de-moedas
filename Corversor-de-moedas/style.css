@@ -24,10 +24,10 @@ h1{
 header{
     width: 500px;
     background: #5D5D5D;
-    border-radius: 50px;
+    border-radius: 15px;
     margin: 0 auto 40px;
     font-size:20px ;
-    padding: 44px;
+    padding: 20px;
 }
 select,input{
     width: 100%;
